@@ -1,0 +1,52 @@
+.text-center {
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+.card {
+    height: auto;
+}
+
+.container-fluid {
+    margin-top: 5px;
+}
+
+.sign {
+    padding-left: 60px;
+    padding-top: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+button {
+    font-size: 15px;
+}
+
+.input-group {
+    border: 1px solid gray;
+}
+
+.form-group input{
+    border-color: black;
+    border-radius: 5px;
+}
+
+.dialog{
+    position: fixed;
+    top: 0%;
+    bottom:0;
+    left: 0;
+    right: 0;
+}
+/*
+
+.input-group {
+    height: 50px;
+    border: 1px solid gray;
+}
+
+input[type=chechbox] {
+    border: 1px solid blue;
+}
+*/

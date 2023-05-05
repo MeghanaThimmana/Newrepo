@@ -1,0 +1,25 @@
+.dialog-container{
+    background: #111111b5;
+    height: 200vh;
+    width: 100vw;
+    padding: 200px;
+    overflow-y: auto;
+    
+    
+
+}
+.dialog-container div{
+    background-color: #fff;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+    
+}
+.dialog-container p{
+  
+   margin: auto;
+}
+button{
+    margin-top:20px ;
+    cursor: pointer;
+}
